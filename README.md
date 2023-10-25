@@ -1,1 +1,24 @@
-# navigation-html
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>navigation</title>
+        
+        <link rel="stylesheet" href="layout.css"/>
+        
+    </head>
+    <body>
+        <div class="navigation">
+            <ul>
+                
+                <li><a href="#" active>Home</a></li>
+                <li><a href="#">Gallery</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+               </a>
+              
+            </ul>
+        </div>
+        
+        <img src="pexels-photo-256455.jpeg" width="1500" height="700">
+    </body>
+</html>
